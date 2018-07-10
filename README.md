@@ -31,7 +31,4 @@ Now the server should be listening on [http://localhost:3000/](http://localhost:
 
 ## Authors
 
-[Chris Augustus Perez](https://github.com/chrisauinmotion)
-[Nabil Yafai](https://github.com/na-ya)
-[Jon Rosado](https://github.com/johnnybee4e)
-[Jessie De La Cruz Santos](https://github.com/jessdelacruzsantos)
+[Chris Augustus Perez](https://github.com/chrisauinmotion), [Nabil Yafai](https://github.com/na-ya), [Jon Rosado(https://github.com/johnnybee4e), [Jessie De La Cruz Santos](https://github.com/jessdelacruzsantos)

@@ -19,7 +19,7 @@ next();
 
 function runCodeSnippet(code) {
   return new Promise(((resolve,reject) => {
-    exec(`node evaluation.js "${code}"`,{timeout: 5000}, (err, stdout, stderr) => {
+    exec(`timeout -t 8 node evaluation.js "${code}"`,{timeout: 5000}, (err, stdout, stderr) => {
       if(err !== null) {
         console.log(stderr)
         const outPut = stderr !== '' ? stderr : 'Your code timed out.'
